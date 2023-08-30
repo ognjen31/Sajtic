@@ -1,0 +1,22 @@
+.body{
+    background-image: "deca.jpg";
+    background-repeat: no-repeat;
+    background-size: 105% ;
+}
+
+.devojcice{
+    position: fixed;
+    top: 600px;
+    left: 1100px;
+}
+
+.decaci{
+    position: fixed;
+    top: 600px;
+    left: 650px;
+}
+.uslovi{
+    position: relative;
+    top: 900px;
+    left: 900px;
+}
